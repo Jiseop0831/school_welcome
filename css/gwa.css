@@ -1,0 +1,24 @@
+.container {
+    position: relative;
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 200px;
+}
+
+.go {
+    font-size: 1.6rem;
+    width: 220px;
+    height: 50px;
+    border: 2px solid black;
+    text-align: center;
+    line-height: 45px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.go:hover {
+    background-color: rgb(190, 190, 190);
+    cursor: pointer;
+}
